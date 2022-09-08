@@ -307,6 +307,11 @@
   line-height: 45px;
 }
 
+.cta__button-box {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 .cta__link {
   margin: 0;
   padding: 18px 36px;
